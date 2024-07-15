@@ -1,7 +1,0 @@
-C:\PatrickSimetzberger\projects\FinanceFusion=C:\PatrickSimetzberger\projects\FinanceFusion=w0=1=1
-C:\PatrickSimetzberger\projects\GradeRunner=C:\PatrickSimetzberger\projects\GradeRunner=w0=1=1
-C:\PatrickSimetzberger\projects\PokemonValoria=C:\PatrickSimetzberger\projects\PokemonValoria=w0=1=1
-C:\PatrickSimetzberger\projects\PROG_Exercise-1=C:\PatrickSimetzberger\projects\PROG_Exercise-1=w0=1=1
-C:\PatrickSimetzberger\projects\CNN=C:\PatrickSimetzberger\projects\CNN=w0=1=1
-C:\PatrickSimetzberger\projects\LogicMaster=C:\PatrickSimetzberger\projects\LogicMaster=w0=1=1
-C:\PatrickSimetzberger\projects\LogicMaster_BadMinimax=C:\PatrickSimetzberger\projects\LogicMaster_BadMinimax=w0=1=1
