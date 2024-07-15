@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='C:\PatrickSimetzberger\projects\LogicMaster\src\main\algorithm\src\structs'
+let g:netrw_dirhist_6='C:\PatrickSimetzberger\projects\GradeRunner'
+let g:netrw_dirhist_5='C:\Program Files\Neovim\share\nvim\runtime\doc'
+let g:netrw_dirhist_4='C:\Users\patrick/AppData/Local/nvim/lua/basic'
+let g:netrw_dirhist_3='C:/Users/patrick/AppData/Local/nvim/lua/basic'
+let g:netrw_dirhist_2='C:/Users/patrick/AppData/Local/nvim/lua'
+let g:netrw_dirhist_1='C:/Users/patrick/AppData/Local/nvim'
+let g:netrw_dirhist_0='C:/Users/patrick/AppData/Local/nvim/after'
+let g:netrw_dirhist_9='C:/Users/patrick/AppData/Local/nvim/after/plugin'
+let g:netrw_dirhist_8='C:/Users/patrick/AppData/Local/nvim/after'

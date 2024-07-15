@@ -1,0 +1,384 @@
+[INFO  15.01.2024 20:35:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  15.01.2024 20:35:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:35:47] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:35:47] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:35:55] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  15.01.2024 20:37:51] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:37:53] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:37:53] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:38:27] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:38:28] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:38:28] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:41:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:41:41] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:41:41] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:41:47] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:41:48] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:41:48] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:41:52] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:41:53] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:41:53] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:43:04] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:43:06] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:43:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:51:41] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:51:43] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:51:43] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:52:35] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:52:36] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:52:36] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:52:41] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:52:42] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:52:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 20:59:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 20:59:33] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 20:59:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:05:07] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:05:08] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:05:08] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:16:14] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:16:15] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:16:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:28:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:28:41] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:28:41] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:29:47] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:29:48] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:29:48] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:30:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:30:59] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:30:59] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:38:52] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:38:53] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:38:53] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:39:56] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:40:16] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:40:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:42:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:43:28] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:43:28] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:44:10] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:44:12] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:44:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:45:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:45:33] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:45:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:45:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:45:40] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:45:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:47:00] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:47:01] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:47:01] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:49:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:49:17] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:49:17] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:53:02] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:53:03] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:53:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:53:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:53:16] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:53:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:57:10] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:57:11] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:57:11] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 21:59:32] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 21:59:33] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 21:59:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:04:24] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:04:25] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:04:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:09:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:09:10] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:09:10] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:15:07] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:15:08] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:15:08] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:15:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:15:45] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:15:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:16:27] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:16:28] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:16:28] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:17:48] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:17:49] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:17:49] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:25:11] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:25:13] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:25:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:35:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:35:04] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:35:04] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:35:38] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:35:39] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:35:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:37:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:37:35] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:37:35] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:52:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:52:32] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:52:32] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:54:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:54:58] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:54:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 22:57:32] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:57:32] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Installation was aborted."
+[INFO  15.01.2024 22:57:49] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:57:49] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Installation was aborted."
+[INFO  15.01.2024 22:57:51] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 22:57:52] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 22:57:52] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:00:24] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:00:25] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:00:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:00:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:00:51] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:00:51] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:01:18] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:01:19] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:01:19] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:02:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:02:51] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:02:51] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:04:30] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:04:31] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:04:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:06:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:06:32] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:06:32] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:07:36] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:07:37] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:07:37] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:08:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:08:58] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:08:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:09:59] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:10:00] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:10:00] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:10:27] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:10:28] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:10:28] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  15.01.2024 23:11:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 15.01.2024 23:11:25] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 15.01.2024 23:11:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 18:08:51] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 18:08:52] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 16.01.2024 18:08:52] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 19:30:56] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  16.01.2024 19:31:08] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  16.01.2024 19:34:09] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:34:11] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 16.01.2024 19:34:11] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 19:35:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:35:17] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 16.01.2024 19:35:17] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 19:35:38] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:35:39] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 16.01.2024 19:35:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 19:38:29] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:38:31] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 16.01.2024 19:38:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 19:39:37] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:39:38] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 16.01.2024 19:39:38] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 19:45:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:45:24] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 16.01.2024 19:45:24] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 19:51:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:51:44] ...\pack\packer\start\mason.nvim/lua/mason-core/process.lua:152: Failed to spawn process. cmd="powershell", err="UNKNOWN: unknown error"
+[ERROR 16.01.2024 19:51:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error=spawn: powershell failed with exit code - and signal -. 
+[INFO  16.01.2024 19:52:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[INFO  16.01.2024 19:53:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:53:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 19:53:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 19:53:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:53:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 19:53:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 19:53:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:53:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 19:53:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 19:54:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:54:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 19:54:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 19:55:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:55:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 19:55:44] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 19:59:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 19:59:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 19:59:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 21:32:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 21:32:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 21:32:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 21:34:02] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 21:34:02] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 21:34:02] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 21:50:11] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 21:50:11] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 21:50:11] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 21:52:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 21:52:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 21:52:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 21:59:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 21:59:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 21:59:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 22:38:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 22:38:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 22:38:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 22:43:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 22:43:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 22:43:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 22:49:49] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 22:49:49] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 22:49:49] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 22:50:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 22:50:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 22:50:25] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 22:50:52] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 22:50:52] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 22:50:52] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 22:51:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 22:51:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 22:51:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 22:54:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 22:54:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 22:54:33] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 22:57:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 22:57:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 22:57:45] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:00:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:00:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:00:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:02:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:02:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:02:15] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:05:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:05:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:05:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:06:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:06:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:06:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:07:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:07:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:07:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:09:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:09:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:09:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:09:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:09:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:09:58] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:12:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:12:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:12:06] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:13:54] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:13:54] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:13:54] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:14:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:14:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:14:57] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:15:26] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:15:26] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:15:26] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:15:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:15:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:15:40] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:16:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:16:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:16:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:16:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:16:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:16:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:18:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:18:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:18:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:20:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:20:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:20:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:21:01] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:21:01] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:21:01] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:21:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:21:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:21:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:21:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:21:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:21:50] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:26:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:26:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:26:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:26:37] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:26:37] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:26:37] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  16.01.2024 23:29:28] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 16.01.2024 23:29:28] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 16.01.2024 23:29:28] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 12:37:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 12:37:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 12:37:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 12:48:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 12:48:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 12:48:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 12:48:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 12:48:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 12:48:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 12:51:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 12:51:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 12:51:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 13:04:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 13:04:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 13:04:39] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 13:57:01] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 13:57:01] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 13:57:01] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 13:58:48] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 13:58:48] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 13:58:48] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 14:10:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 14:10:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 14:10:42] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 14:11:54] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 14:11:54] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 14:11:54] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 14:29:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 14:29:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 14:29:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 14:31:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 14:31:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 14:31:22] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:00:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:00:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:00:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:00:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:00:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:00:03] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:00:07] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:00:07] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:00:07] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:02:00] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:02:00] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:02:00] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:02:46] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:02:46] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:02:46] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:03:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:03:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:03:31] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:04:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:04:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:04:16] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:05:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:05:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:05:13] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:06:56] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:06:56] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:06:56] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:08:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:08:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:08:34] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:09:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:09:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:09:23] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:12:20] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:12:20] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:12:20] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."
+[INFO  17.01.2024 15:16:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=rust-analyzer) {}
+[ERROR 17.01.2024 15:16:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=rust-analyzer)
+[ERROR 17.01.2024 15:16:12] ...acker\start\mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=rust-analyzer) error="Lockfile exists, installation is already running in another process (pid: 6136). Run with :MasonInstall --force to bypass."

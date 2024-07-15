@@ -1,0 +1,9 @@
+leader a 	add to harpoon
+leader e 	open harpoon
+shift enter 	open left right
+strg enter 	open up down
+leader pf	open file finder
+leader w	choose switch window
+
+treesitter
+a 		create new file
