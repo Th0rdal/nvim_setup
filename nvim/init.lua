@@ -1,4 +1,5 @@
 require("basic")
+local lfs = require("lfs")
 
 local function scan_directories(parent_dir, output_file)
     -- Open the output file for writing
