@@ -30,6 +30,6 @@ end
 vim.fn.setenv("LANG", "en_US.UTF-8")
 
 -- load projects
-scan_directories(os.getenv("PROJECTS_HOME"), os.getenv("XDG_DATA_HOME") .. "/nvim/telescope-projects")
+scan_directories(os.getenv("PROJECTS_HOME"), os.getenv("XDG_DATA_HOME") .. "/nvim/telescope-projects.txt")
 
 vim.fn.chdir(os.getenv("PROJECTS_HOME"))
