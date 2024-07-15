@@ -1,8 +1,0 @@
-WARN  | main: Removing snippet chkio_null: Detected deletion of snippet `chkio_null`, removing it
-WARN  | main: Removing snippet exit: Leaving snippet-root due to invalid extmarks.
-WARN  | main: Removing snippet fprintf: Leaving snippet-root due to invalid extmarks.
-WARN  | main: Removing snippet sprintf: Detected deletion of snippet `sprintf`, removing it
-WARN  | main: Removing snippet typeunion: Leaving snippet-root due to invalid extmarks.
-WARN  | main: Removing snippet if: Detected deletion of snippet `if`, removing it
-WARN  | main: Removing snippet assert: Detected deletion of snippet `assert`, removing it
-WARN  | main: Removing snippet #inc: Detected deletion of snippet `#inc`, removing it
