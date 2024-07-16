@@ -1,7 +1,5 @@
 local fn = vim.fn
 
-
-
 local ensure_packer = function()
 	local fn = vim.fn
 	local install_path = fn.stdpath('data')..'/site/pack/packer/start/packer.nvim'
@@ -14,6 +12,7 @@ local ensure_packer = function()
   end
   
 local packer_bootstrap = ensure_packer()
+vim.cmd 'packadd pakcer.nvim'
 
 -- Autocommand that reloads neovim whenever you save the plugins.lua file
 vim.cmd([[
