@@ -40,6 +40,20 @@ require('telescope').setup {
 			"build.bat", ".git", ".nvim", ".idea"
 		},
 	},
+	pickers = {
+		find_files = {
+			mappings = {
+				n = {
+					["<C-CR>"] = require("telescope.actions").select_horizontal,
+					["<s-CR>"] = require("telescope.actions").select_vertical,
+				},
+				i = {
+					["<C-CR>"] = require("telescope.actions").select_horizontal,
+					["<s-CR>"] = require("telescope.actions").select_vertical,
+				},
+			}
+		}
+	},
 	project_actions = require("telescope._extensions.project.actions"),
 	extensions = {
 	  project = {
@@ -56,7 +70,7 @@ require('telescope').setup {
 		  -- change directory, close the Telescope tab and then execute Ex command
 		  vim.fn.chdir(require("telescope.actions.state").get_selected_entry(prompt_bufnr).value)
 		  require("telescope.actions").close(prompt_bufnr)
-		  require("neoproj").open_project(require("telescope.actions.state").get_selected_entry(prompt_bufnr).value)
+		  require("neoproj").open_project(require("telescope.actions.state").get_selected_entry(prompt_bufnr).value:match("([^/\\]+)[/\\]?$"))
 		  vim.api.nvim_exec("NvimTreeOpen", false)
 		end
 	  }
