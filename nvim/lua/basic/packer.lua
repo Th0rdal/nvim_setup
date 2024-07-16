@@ -16,7 +16,7 @@ local ensure_packer = function()
   end
   
 local packer_bootstrap = ensure_packer()
-vim.cmd 'packadd pakcer.nvim'
+vim.cmd 'packadd packer.nvim'
 
 -- Autocommand that reloads neovim whenever you save the plugins.lua file
 vim.cmd([[
