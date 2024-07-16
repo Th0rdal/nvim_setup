@@ -1,12 +1,14 @@
+local status, zenmode = pcall(require, "zen-mode")
+if not status then return end
 
 vim.keymap.set("n", "<leader>zz", function()
-    require("zen-mode").setup {
+    zenmode.setup {
         window = {
             width = 90,
             options = { }
         },
     }
-    require("zen-mode").toggle()
+    zenmode.toggle()
     vim.wo.wrap = false
     vim.wo.number = true
     vim.wo.rnu = true
@@ -15,13 +17,13 @@ end)
 
 
 vim.keymap.set("n", "<leader>zZ", function()
-    require("zen-mode").setup {
+    zenmode.setup {
         window = {
             width = 80,
             options = { }
         },
     }
-    require("zen-mode").toggle()
+    zenmode.toggle()
     vim.wo.wrap = false
     vim.wo.number = false
     vim.wo.rnu = false

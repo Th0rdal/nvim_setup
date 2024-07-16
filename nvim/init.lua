@@ -25,7 +25,6 @@ local function scan_directories(parent_dir, output_file)
 
     -- Close the output file
     file:close()
-    print("Directory scan completed. Results saved to " .. output_file)
 end
 
 vim.fn.setenv("LANG", "en_US.UTF-8")

@@ -1,3 +1,5 @@
+local status, tree = pcall(require, "nvim-tree")
+if not status then return end
 
 local function customAttach(bufnr)
   local api = require "nvim-tree.api"
@@ -13,9 +15,8 @@ end
 -- set termguicolors to enable highlight groups
 vim.opt.termguicolors = true
 
-
 -- OR setup with some options
-require("nvim-tree").setup({
+tree.setup({
   sort = {
     sorter = "case_sensitive",
   },

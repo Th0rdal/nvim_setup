@@ -1,4 +1,6 @@
+local status, neoproj = pcall(require, "neoproj")
+if not status then return end
 
-require("neoproj").setup {
+neoproj.setup {
     project_path = "C:\\PatrickSimetzberger\\projects"
 }
