@@ -1,5 +1,3 @@
-local betterTerm = require "betterTerm"
-
 vim.g.mapleader = " "
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
@@ -177,50 +175,53 @@ vim.keymap.set("n", "<leader><C-h>", function()
     vim.cmd("WhichKey")
 end)
 
-vim.keymap.set("n", "<F5>",
-    function()
-        betterTerm.open(current)
-        betterTerm.send("builddebug.bat", current)
-        vim.api.nvim_input("<CR>")
-        current = current + 1
-    end)
+local present, betterTerm = pcall(require, "betterTerm")
+if present then
+    vim.keymap.set("n", "<F5>",
+        function()
+            betterTerm.open(current)
+            betterTerm.send("builddebug.bat", current)
+            vim.api.nvim_input("<CR>")
+            current = current + 1
+        end)
 
-vim.keymap.set("n", "<leader><F5>",
-    function()
-        betterTerm.open(current)
-        betterTerm.send("target/algorithm.exe", current)
-        vim.api.nvim_input("<CR>")
-        current = current + 1
-    end)
+    vim.keymap.set("n", "<leader><F5>",
+        function()
+            betterTerm.open(current)
+            betterTerm.send("target/algorithm.exe", current)
+            vim.api.nvim_input("<CR>")
+            current = current + 1
+        end)
 
-vim.keymap.set("n", "<F6>",
-    function()
-        betterTerm.open(current)
-        betterTerm.send("buildtest.bat all", current)
-        vim.api.nvim_input("<CR>")
-        current = current + 1
-    end)
+    vim.keymap.set("n", "<F6>",
+        function()
+            betterTerm.open(current)
+            betterTerm.send("buildtest.bat all", current)
+            vim.api.nvim_input("<CR>")
+            current = current + 1
+        end)
 
-vim.keymap.set("n", "<leader><F6>",
-    function()
-        betterTerm.open(current)
-        betterTerm.send("buildtest.bat", current)
-        vim.api.nvim_input("<CR>")
-        current = current + 1
-    end)
+    vim.keymap.set("n", "<leader><F6>",
+        function()
+            betterTerm.open(current)
+            betterTerm.send("buildtest.bat", current)
+            vim.api.nvim_input("<CR>")
+            current = current + 1
+        end)
 
-vim.keymap.set("n", "<F7>",
-    function()
-        betterTerm.open(current)
-        betterTerm.send("buildtest.bat all gdb", current)
-        vim.api.nvim_input("<CR>")
-        current = current + 1
-    end)
+    vim.keymap.set("n", "<F7>",
+        function()
+            betterTerm.open(current)
+            betterTerm.send("buildtest.bat all gdb", current)
+            vim.api.nvim_input("<CR>")
+            current = current + 1
+        end)
 
-vim.keymap.set("n", "<leader><F7>",
-    function()
-        betterTerm.open(current)
-        betterTerm.send("gdb target/debugProgram.exe", current)
-        vim.api.nvim_input("<CR>")
-        current = current + 1
+    vim.keymap.set("n", "<leader><F7>",
+        function()
+            betterTerm.open(current)
+            betterTerm.send("gdb target/debugProgram.exe", current)
+            vim.api.nvim_input("<CR>")
+            current = current + 1
     end)
+end
