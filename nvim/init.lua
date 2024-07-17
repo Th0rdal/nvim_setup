@@ -12,7 +12,7 @@ local function scan_directories(parent_dir, output_file)
     -- Iterate through each entry in the parent directory
     for entry in lfs.dir(parent_dir) do
         -- Skip the current and parent directory entries
-        if entry ~= "." and entry ~= ".." then
+        if entry ~= "." and entry ~= ".." and string.sub(entry, 1, 1) ~= "." then
             local full_path = parent_dir .. "/" .. entry
             local attr = lfs.attributes(full_path)
             -- Check if the entry is a directory
