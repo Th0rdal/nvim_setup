@@ -35,3 +35,23 @@ function getStatusLine()
 end
 vim.api.nvim_set_option('statusline', '%<%f %h%m%r%= %-14.(%l,%c%V%) %P')
 
+-- Cursor shapes for different modes
+vim.api.nvim_create_augroup("CursorShape", {})
+vim.api.nvim_create_autocmd("InsertEnter", {
+    group = "CursorShape",
+    callback = function()
+        vim.opt.guicursor = "n-v-c:ver25" -- Line cursor in insert mode
+    end,
+})
+vim.api.nvim_create_autocmd("InsertLeave", {
+    group = "CursorShape",
+    callback = function()
+        vim.opt.guicursor = "n-v-c:block-blinkon0" -- Full block cursor in normal mode
+    end,
+})
+vim.api.nvim_create_autocmd("ReplaceEnter", {
+    group = "CursorShape",
+    callback = function()
+        vim.opt.guicursor = "n-v-c:hor20" -- Underscore cursor in replace mode
+    end,
+})
