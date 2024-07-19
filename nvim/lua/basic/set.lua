@@ -1,4 +1,4 @@
-vim.opt.guicursor = ""
+vim.o.guicursor = 'n-v-c-sm:block,i-ci-ve:ver25,r-cr-o:hor20,a:blinkwait700-blinkoff400-blinkon250-Cursor/lCursor'
 
 vim.opt.nu = true
 vim.opt.relativenumber = true
@@ -34,34 +34,3 @@ function getStatusLine()
     return vim.g.statusline_winid or ""
 end
 vim.api.nvim_set_option('statusline', '%<%f %h%m%r%= %-14.(%l,%c%V%) %P')
-
--- Cursor shapes for different modes
-vim.api.nvim_create_augroup("CursorShape", {})
-
--- Insert mode: vertical line
-vim.api.nvim_create_autocmd("InsertEnter", {
-    group = "CursorShape",
-    callback = function()
-        vim.opt.guicursor = "n-v-c:ver25" -- Vertical line in insert mode
-    end,
-})
-
--- Normal mode: full block
-vim.api.nvim_create_autocmd("NormalEnter", {
-    group = "CursorShape",
-    callback = function()
-        vim.opt.guicursor = "n-v-c:block-blinkon0" -- Full block in normal mode
-    end,
-})
-
--- Replace mode: underscore
-vim.api.nvim_create_autocmd("InsertLeave", {
-    group = "CursorShape",
-    callback = function()
-        if vim.fn.mode() == "R" then
-            vim.opt.guicursor = "n-v-c:hor20" -- Underscore cursor in replace mode
-        else
-            vim.opt.guicursor = "n-v-c:block-blinkon0" -- Full block in normal mode
-        end
-    end,
-})

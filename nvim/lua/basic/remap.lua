@@ -9,6 +9,8 @@ vim.keymap.set("n", "<C-u>", "<C-u>zz")
 vim.keymap.set("n", "n", "nzzzv")
 vim.keymap.set("n", "N", "Nzzzv")
 
+vim.cmd(":nnoremap <c-s-v> <c-v>")
+
 --[[ betterTerm
 vim.keymap.set({"n", "t"}, "<C-;>", betterTerm.open, { desc = "Open terminal"})
 vim.keymap.set({"n"}, "<leader>tt", betterTerm.select, { desc = "Select terminal"})
